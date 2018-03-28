@@ -1,0 +1,181 @@
+1graphs:
+1) states voters with bar divisions on votes
+
+2 change os races over 3 election periods
+
+
+-----------------------------------------------------------------------------------------------------
+Columns:
+
+State
+ST
+Fips
+County
+Precincts
+Votes
+
+Democrats 08 (Votes)
+Democrats 12 (Votes)
+Republicans 08 (Votes)
+Republicans 12 (Votes)
+Republicans 2016
+Democrats 2016
+
+Green 2016
+Libertarians 2016
+Republicans 2012
+Republicans 2008
+Democrats 2012
+Democrats 2008
+
+Less Than High School Diploma
+At Least High School Diploma
+At Least Bachelors's Degree
+Graduate Degree
+School Enrollment
+
+Median Earnings 2010
+
+White (Not Latino) Population
+African American Population
+Native American Population
+Asian American Population
+Other Race or Races
+Latino Population
+
+Children Under 6 Living in Poverty
+Adults 65 and Older Living in Poverty
+Total Population
+
+Preschool.Enrollment.Ratio.enrolled.ages.3.and.4
+Poverty.Rate.below.federal.poverty.threshold
+Gini.Coefficient
+
+Child.Poverty.living.in.families.below.the.poverty.line
+Management.professional.and.related.occupations
+Service.occupations
+Sales.and.office.occupations
+Farming.fishing.and.forestry.occupations
+Construction.extraction.maintenance.and.repair.occupations
+Production.transportation.and.material.moving.occupations
+
+White
+Black
+Hispanic
+Asian
+Amerindian
+Other
+White_Asian
+
+SIRE_homogeneity
+median_age
+
+lon
+lat
+
+Poor.physical.health.days
+Poor.mental.health.days
+Low.birthweight
+Teen.births
+Children.in.single.parent.households
+Adult.smoking
+Adult.obesity
+Diabetes
+Sexually.transmitted.infections
+HIV.prevalence.rate
+Uninsured
+Unemployment
+Violent.crime
+Homicide.rate
+Injury.deaths
+Infant.mortality
+CA
+S
+MAR
+CFS
+ACFS
+MeanALC
+MaxALC
+Mixedness
+elevation
+annual_PRCP
+winter_PRCP
+summer_PRCP
+spring_PRCP
+autumn_PRCP
+annual_TAVG
+annual_TMAX
+annual_TMIN
+winter_TAVG
+winter_TMAX
+winter_TMIN
+summer_TAVG
+summer_TMAX
+summer_TMIN
+spring_TAVG
+spring_TMAX
+spring_TMIN
+autumn_TAVG
+autumn_TMAX
+autumn_TMIN
+nearest_county
+temp
+precip
+temp_bins
+lat_bins
+lon_bins
+precip_bins
+elevation_bins
+Geo Shape
+name_16
+reporting
+votes16_trumpd
+votes16_clintonh
+votes16_johnsong
+votes16_steinj
+votes16_castled
+votes16_de_la_fuenter
+est_votes_remaining
+votes16_mcmulline
+votes16_hedgesj
+votes16_kahnl
+votes16_la_rivag
+votes16_hoeflingt
+votes16_kenistonc
+votes16_smithm
+votes16_atwoodf
+votes16_kennedya
+votes16_kopitkek
+votes16_kotlikoffl
+votes16_lyttleb
+votes16_maldonadoj
+votes16_maturenm
+votes16_scottr
+votes16_silvar
+votes16_soltysike
+votes16_vacekd
+votes16_copelands
+votes16_jacobp
+votes16_whitej
+votes16_mooreheadm
+votes16_none_of_these_candidates
+votes16_duncanr
+votes16_skewesp
+votes16_giordanir
+total16
+other16_frac
+rep16_frac2
+dem16_frac2
+name_prev
+statecode_prev
+total08
+total12
+other08
+other12
+other12_frac
+other08_frac
+rep12_frac2
+rep08_frac2
+dem12_frac2
+dem08_frac2
+
